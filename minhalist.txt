@@ -1,5 +1,4 @@
 0.0.0.0	u1-global.com
-0.0.0.0	001game1.com
 0.0.0.0	001game2.com
 0.0.0.0	001game3.com
 0.0.0.0	001game4.com
