@@ -1,4 +1,5 @@
 0.0.0.0	u1-global.com
+0.0.0.0	001game1.com
 0.0.0.0	001game2.com
 0.0.0.0	001game3.com
 0.0.0.0	001game4.com
@@ -137,3 +138,7 @@
 0.0.0.0	136bet77.com
 0.0.0.0	136bet88.com
 0.0.0.0	136bet99.com
+0.0.0.0	136jogo.com
+0.0.0.0	1386bet.com
+0.0.0.0	138jogo.com
+0.0.0.0	13jogo.com
