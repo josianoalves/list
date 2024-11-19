@@ -1,4 +1,4 @@
-0.0.0.0	www.	116bet4.com
+0.0.0.0	www.116bet4.com
 0.0.0.0	www.	116bet5.com
 0.0.0.0	www.	116bet6.com
 0.0.0.0	www.	116bet7.com
@@ -16,10 +16,10 @@
 0.0.0.0	001game3.com
 0.0.0.0	001game4.com
 0.0.0.0	001game5.com
-0.0.0.0	001game6.com
-0.0.0.0	001game7.com
-0.0.0.0	001game8.com
-0.0.0.0	006bet.com
+0.0.0.0	www.001game6.com
+0.0.0.0	www.001game7.com
+0.0.0.0	www.001game8.com
+0.0.0.0	www.006bet.com
 1900bet.com
 1900bet0.com
 1900bet1.com
